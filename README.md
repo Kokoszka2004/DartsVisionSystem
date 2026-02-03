@@ -10,5 +10,5 @@ and calculates the score automatically.
 - Calculates the final score automatically
 
 ## Files
-- main.py – main application logic
+- main_pro.py – main application logic
 - DART_MASTER_4K.pt – trained model used for dart detection
